@@ -25,8 +25,9 @@ num = input()
 count,i = 1,3
 if num == count:
 	print 2
-while count != num:
+while count  = num:
 	if isPrime(i) == 1:
 		count += 1
 	i+=2
 print i-2
+ 
